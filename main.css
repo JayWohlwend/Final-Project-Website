@@ -1,0 +1,45 @@
+#wrapper {
+	width:960px;
+	margin:0 auto;
+	border:solid .25em #285752;
+}
+
+
+header {
+	background-color: rgba(9,95,0,.5);
+	}
+
+nav {
+	background-color: rgba(128,104,62,1);
+	
+	text-align:center;
+}
+
+nav ul {
+	
+}
+
+nav ul li {
+	display:inline;
+	background-color:rgb(180,188,45);
+	padding:.75em,2.5em;
+}
+
+nav ul li a:link,nav ul li a:visited{
+	color:rgb(255,255,255);
+	text-decoration:none;
+	display:inline-block;
+	background-color:rgba(116,47,0,1);
+	width:175px;
+}
+
+body {
+	background-color:rgba( 23,177,7,1);
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:100%;
+	font:inherit;
+	vertical-align:baseline;
+	font-family:
+}
